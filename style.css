@@ -1,0 +1,78 @@
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: rgb(39, 39, 39);
+    background-color:rgb(147, 112, 216);
+    font-family:'Times New Roman', Times, serif;
+}
+#navbar {
+    background-color:khaki;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+#rodape {
+    color: rgb(0, 0, 0);
+    background-color:rgb(113, 82, 175);
+    padding: 10px;
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    padding: 10px;
+}
+
+#principal {
+    padding: 30px;
+    text-align:justify;
+    font-family:monospace;
+}
+#aliados {
+  font-family: 'Times New Roman', Times, serif;  
+  text-align: center;
+  background-color:khaki;
+  padding: 5px;
+}
+#aliadoss {
+    font-family: 'Times New Roman', Times, serif;  
+    text-align: center;
+    background-color:rgb(247, 240, 164);
+    padding: 3px; 
+}
+
+.container {
+    height: 400px;
+    width: 100%;
+    background-color: khaki;
+    gap: 10px;
+    justify-content: center;
+    display: flex;
+    overflow: hidden;
+}
+
+.box{
+    height: 100%;
+    width: 300px;
+    background-color: rgb(255, 247, 172);
+    padding: 10px;
+    text-align: center;
+}
+
+#viloes {
+    font-family: 'Times New Roman', Times, serif;  
+    text-align: center;
+    background-color:khaki;
+    padding: 5px;
+}
+
+#viloess {
+    font-family: 'Times New Roman', Times, serif;  
+    text-align:center;
+    background-color:rgb(247, 240, 164);
+    padding: 3px; 
+}
