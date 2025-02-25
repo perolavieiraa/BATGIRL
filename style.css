@@ -3,8 +3,9 @@ body {
     margin: 0;
     padding: 0;
     color: rgb(39, 39, 39);
-    background-color:rgb(188, 161, 241);
+    background-color:rgb(209, 191, 245);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 #navbar {
     background-color:khaki;
@@ -75,4 +76,8 @@ img {
     text-align:center;
     background-color:rgb(247, 240, 164);
     padding: 3px; 
+}
+.cabecalho {
+    width: 180px;
+    padding: 10px;
 }
